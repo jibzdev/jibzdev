@@ -23,6 +23,7 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 <br />
 <br />
 
+---
 
 [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 
