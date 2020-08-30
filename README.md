@@ -37,20 +37,11 @@ Discord [<img align="left" alt="aksel | LinkedIn" width="22px" src="https://cdn.
 
 Instagram [<img align="left" alt="aksel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-<br />
-<br />
-
-[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
-
 ---
 
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksel-rag&theme=radical&hide_langs_below=1&layout=compact" />
+  [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
+
 
 [website]: https://antiquity.vip
 [instagram]: https://www.instagram.com/ragger_dh/
