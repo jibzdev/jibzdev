@@ -30,3 +30,24 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksel-rag&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
+
+
+---
+
+
+## Connect with me!
+
+[<img align="left" alt="antiquity.vip" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="aksel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="aksel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aksel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="aksel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+
+[website]: https://antiquity.vip
+[instagram]: https://www.instagram.com/ragger_dh/
+[youtube]: https://www.youtube.com/channel/UCIPC-57TcURMRqKQmC_q6oQ
+[twitter]: https://twitter.com/Weeby25944300
+[discord]: https://discord.gg/CZTHfNB
