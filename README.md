@@ -26,7 +26,7 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 ---
 
 <p align="center">
-[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+  [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 </P>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksel-rag&theme=radical&hide_langs_below=1&layout=compact" />
