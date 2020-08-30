@@ -26,6 +26,6 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-  
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksel-rag&theme=radical&hide_langs_below=1&layout=compact" alt="Ohidur's github stats"/>
 </p>
