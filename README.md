@@ -25,5 +25,6 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 ---
 
 [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksel-rag&theme=radical&hide_langs_below=1&layout=compact" alt="Ohidur's github stats"/>
