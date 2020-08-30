@@ -16,7 +16,7 @@ _😈 Currently working https://antiquity.vip ..._
 <br />
 **Come vibe with me ;)**
 
-[![Spotify](https://novatorem.aksel-rag.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 <br />
 <br />
 
