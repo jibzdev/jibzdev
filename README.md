@@ -1,4 +1,3 @@
-.bg-gray-dark
 
 # Hello, I'm Ragger - Welcome! 👋
 
