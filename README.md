@@ -14,11 +14,8 @@ _😈 Currently working https://antiquity.vip ..._
 * MySQL <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 * Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
-**Come vibe with me ;)**
-
+<br />
 [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
-<br />
-<br />
 
 ![Aksel-Rag's github stats](https://github-readme-stats.vercel.app/api?username=aksel-rag&count_private=true)
 
