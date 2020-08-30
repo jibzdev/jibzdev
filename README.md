@@ -41,7 +41,9 @@ Instagram [<img align="left" alt="aksel | Instagram" width="22px" src="https://c
 <br />
 <br />
 <br />
+
 [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+
 ---
 
 
