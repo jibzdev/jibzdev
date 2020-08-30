@@ -14,9 +14,9 @@ _😈 Currently working https://antiquity.vip ..._
 * MySQL <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 * Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
-**Come vibe with me ;)**\
+**Come vibe with me ;)**
 
-[![Spotify](https://novatorem-puce-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+[![Spotify](https://novatorem.aksel-rag.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 <br />
 <br />
 
