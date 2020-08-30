@@ -16,8 +16,7 @@ _😈 Currently working https://antiquity.vip ..._
 <br />
 **Come vibe with me ;)**\
 
-[<img src="https://novatorem-puce-kappa.vercel.app//api/spotify-playing" alt="akselrag Spotify Playing" width="350" />]
-(https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+[![Spotify](https://novatorem-puce-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 <br />
 <br />
 
