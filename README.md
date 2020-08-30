@@ -21,30 +21,9 @@ PHP <img align="left" alt="MySQL" width="26px" src="https://raw.githubuserconten
 Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
-<br />
-
-
-## Connect with me!
-<br />
-
-My Website [<img align="left" alt="antiquity.vip" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-Youtube [<img align="left" alt="aksel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-Twitter [<img align="left" alt="aksel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-Discord [<img align="left" alt="aksel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-Instagram [<img align="left" alt="aksel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
-  [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 
-
-[website]: https://antiquity.vip
-[instagram]: https://www.instagram.com/ragger_dh/
-[youtube]: https://www.youtube.com/channel/UCIPC-57TcURMRqKQmC_q6oQ
-[twitter]: https://twitter.com/Weeby25944300
-[discord]: https://discord.gg/CZTHfNB
