@@ -1,3 +1,5 @@
+.bg-gray-dark
+
 # Hello, I'm Ragger - Welcome! 👋
 
 _I'm a 16 year old student studying computer science in the UK._
