@@ -24,6 +24,8 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 
 <br />
 
+---
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
   <br />
