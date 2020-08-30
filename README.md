@@ -1,6 +1,7 @@
-Hello, I'm Ragger - Welcome! 👋
+# Hello, I'm Ragger - Welcome! 👋
 
-I'm a 16 year old student studying computer science in the UK.
+_I'm a 16 year old student studying computer science in the UK._
 
-🗒️ I'm currently learning Python, PHP, C++/c# and Go.
-🐧 I'm also currently gaining a deeper understanding of linux.
+* 🗒️ I'm currently learning Python, PHP and Go.
+
+* 😈 Currently working https://antiquity.vip ...
