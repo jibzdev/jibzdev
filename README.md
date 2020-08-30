@@ -13,8 +13,11 @@ _😈 Currently working https://antiquity.vip ..._
 * Javascript <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 * MySQL <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 * Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br />
+_Come vibe with me ;)_
 
-
+[<img src="https://https://aksel-rag.vercel.app/api/spotify-playing" alt="akselrag Spotify Playing" width="350" />]
+(https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
 <br />
 <br />
 
