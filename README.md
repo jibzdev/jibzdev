@@ -23,7 +23,7 @@ Python <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercont
 <br />
 
 ---
-                      [![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
-<img src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+[![Spotify](https://my-site-omega.vercel.app/api/spotify)](https://open.spotify.com/user/hkgmzhjemhzlah3aizhv3jcsp)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksel-rag&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 
 
