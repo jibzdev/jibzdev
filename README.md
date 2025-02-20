@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ragger+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Jibz+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   
-  <h2>🚀 Full Stack Rails Developer and Web Enthusiast</h2>
+  <h2>Full Stack Rails Developer and Web Enthusiast</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
